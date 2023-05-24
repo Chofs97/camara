@@ -1,0 +1,2 @@
+# camara
+camara_inteligente
